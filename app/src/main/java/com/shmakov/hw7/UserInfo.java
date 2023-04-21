@@ -1,4 +1,4 @@
-package com.shmakov.hw6;
+package com.shmakov.hw7;
 
 import android.os.Parcel;
 import android.os.Parcelable;

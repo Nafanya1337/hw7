@@ -1,8 +1,7 @@
-package com.shmakov.hw6;
+package com.shmakov.hw7;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.content.Intent;
 import android.os.Bundle;
 import android.widget.TextView;
 

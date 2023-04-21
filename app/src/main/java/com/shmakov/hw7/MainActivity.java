@@ -1,4 +1,4 @@
-package com.shmakov.hw6;
+package com.shmakov.hw7;
 
 import androidx.activity.result.ActivityResult;
 import androidx.activity.result.ActivityResultCallback;
